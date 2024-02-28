@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi 👋
 I'm begging front-end developer
 
-languages:
+### Skills:
 
  HTML <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/600px-HTML5_logo_and_wordmark.svg.png" height="30" alt="HTML5">
  
