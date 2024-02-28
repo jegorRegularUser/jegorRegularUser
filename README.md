@@ -7,7 +7,7 @@ I'm begging front-end developer
 
 
 ### My achievements:
-<div align='center'>
+<div align='left'>
 <img src="photos/atomic.png" width="20%"  alt="CSS3">
 <img src="photos/digit.png" width="20%"  alt="CSS3">
 <img src="photos/mininser.png" width="20%"  alt="CSS3">
