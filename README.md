@@ -16,4 +16,12 @@ I'm begging front-end developer
 
 
 ### My achievements:
-<img src="photos/atomic"  alt="CSS3">
+<div align='center'>
+<img src="photos/atomic.png" width="20%"  alt="CSS3">
+<img src="photos/digit.png" width="20%"  alt="CSS3">
+<img src="photos/mininserf.png" width="20%"  alt="CSS3">
+<img src="photos/minindip.png" width="20%"  alt="CSS3">
+<img src="photos/graf.png" width="20%"  alt="CSS3">
+<img src="photos/mobile.png" width="20%"  alt="CSS3">
+</div>
+
