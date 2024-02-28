@@ -19,8 +19,8 @@ I'm begging front-end developer
 <div align='center'>
 <img src="photos/atomic.png" width="20%"  alt="CSS3">
 <img src="photos/digit.png" width="20%"  alt="CSS3">
-<img src="photos/mininserf.png" width="20%"  alt="CSS3">
-<img src="photos/minindip.png" width="20%"  alt="CSS3">
+<img src="photos/mininser.png" width="20%"  alt="CSS3">
+<img src="photos/minindipl.png" width="20%"  alt="CSS3">
 <img src="photos/graf.png" width="20%"  alt="CSS3">
 <img src="photos/mobile.png" width="20%"  alt="CSS3">
 </div>
