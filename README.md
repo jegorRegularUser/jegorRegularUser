@@ -15,5 +15,4 @@ I'm begging front-end developer
  
 
 
-### Мои дипломы:
-<!-- Вставьте изображения ваших дипломов здесь -->
+### My achievements:
