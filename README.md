@@ -15,6 +15,7 @@ I'm begging front-end developer
 <img src="photos/graf.png" width="20%"  alt="CSS3">
 <img src="photos/mobile.png" width="20%"  alt="CSS3">
 </div>
+
 ### Statistic
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jegorRegularUser&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
