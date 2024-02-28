@@ -16,3 +16,4 @@ I'm begging front-end developer
 
 
 ### My achievements:
+<img src="photos/atomic"  alt="CSS3">
