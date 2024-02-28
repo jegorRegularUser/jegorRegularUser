@@ -17,4 +17,4 @@ I'm begging front-end developer
 </div>
 ### Statistic
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jegorRegularUser&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jegorRegularUser&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
