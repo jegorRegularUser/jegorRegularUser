@@ -12,8 +12,8 @@ I'm beginning front-end developer
 <img src="photos/digit.png" width="20%"  alt="CSS3">
 <img src="photos/mininser.png" width="20%"  alt="CSS3">
 <img src="photos/minindipl.png" width="20%"  alt="CSS3">
- <img src="photos/netology-html.png" width="20%"  alt="CSS3">
-<img src="photos/netology-mobile.png" width="20%"  alt="CSS3">
+ <img src="photos/netology-html.pdf" width="20%"  alt="CSS3">
+<img src="photos/netology-mobile.pdf" width="20%"  alt="CSS3">
 <img src="photos/graf.png" width="20%"  alt="CSS3">
 <img src="photos/mobile.png" width="20%"  alt="CSS3">
 </div>
