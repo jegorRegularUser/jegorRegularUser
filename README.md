@@ -7,7 +7,7 @@ I'm beginner front-end developer and a college student, studying to be a program
 
  I often participate in various IT events.
 
-### Languages and tools:
+## Languages and tools:
 <div>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/600px-HTML5_logo_and_wordmark.svg.png" height="30" alt="HTML5">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="30" alt="CSS3">
@@ -21,7 +21,7 @@ I'm beginner front-end developer and a college student, studying to be a program
 <img alt="PostgreSQL" height ="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </div>
 
-### My achievements:
+## My achievements:
 <div align='left'>
 <img src="photos/atomic.png" width="20%"  alt="CSS3">
 <img src="photos/digit.png" width="20%"  alt="CSS3">
@@ -33,6 +33,6 @@ I'm beginner front-end developer and a college student, studying to be a program
 <img src="photos/mobile.png" width="20%"  alt="CSS3">
 </div>
 
-### Statistic
+## Statistic:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jegorRegularUser&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
