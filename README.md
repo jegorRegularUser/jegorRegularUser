@@ -1,6 +1,6 @@
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=700&color=A6F987&center=true&vCenter=true&width=435&height=25%&lines=Hello+there+!;My+name+is+Egor" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=700&color=A6F987&center=true&vCenter=true&width=435&height=45%&lines=Hello+there+!;My+name+is+Egor" alt="Typing SVG" /></a>
 
 ### In brief about me:
 I'm beginner front-end developer and college student, studying to become a programmer.
