@@ -25,6 +25,7 @@ I'm beginner front-end developer and college student, studying to become a progr
 <div align='left'>
 <img src="photos/atomic.png" width="20%"  alt="CSS3">
 <img src="photos/digit.png" width="20%"  alt="CSS3">
+ <img src="photos/международный апк.png" width="20%"  alt="CSS3">
 <img src="photos/mininser.png" width="20%"  alt="CSS3">
 <img src="photos/minindipl.png" width="20%"  alt="CSS3">
  <img src="photos/netology-html.png" width="20%"  alt="CSS3">
