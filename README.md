@@ -22,14 +22,16 @@ I'm beginner front-end developer and college student, studying to become a progr
 </div>
 
 ## My achievements:
-<div align='left'>
-<img src="photos/atomic.png" width="30%" alt="CSS3">
-<img src="photos/digit.png" width="30%" alt="CSS3">
+<div>
+<img src="photos/atomic.png" width="30%" height ="30%" object-fit= 'contain' alt="CSS3">
+<img src="photos/digit.png" width="30%" height ="30%"  alt="CSS3">
 <img src="photos/международный апк.png" width="30%" alt="CSS3">
-<img src="photos/mininser.png" width="30%" alt="CSS3">
-<img src="photos/minindipl.png" width="30%" alt="CSS3">
- <img src="photos/bjs.png" width="30%" alt="CSS3">
-<img src="photos/netology-basic-js.png" width="30%" alt="CSS3">
+<img src="photos/mininser.png" width="30%"  alt="CSS3">
+<img src="photos/minindipl.png" width="30%"  alt="CSS3">
+
+<img src="photos/bjs.png" width="30%"  alt="CSS3">
+<img src="photos/netology-basic-js.png" width="30%"  alt="CSS3">
+
 <img src="photos/netology-html.png" width="30%" alt="CSS3">
 <img src="photos/netology-mobile.png" width="30%" alt="CSS3">
 <img src="photos/graf.png" width="30%" alt="CSS3">
